@@ -1,0 +1,56 @@
+body{
+	background-image: url(boody.jpg);
+	background-repeat: repeat;
+	background-attachment: fixed;
+}
+
+h1{
+	background-image: url(h.jpg);
+	background-repeat: repeat;
+	background-attachment: fixed;
+	color: green;
+
+}
+
+header {
+	font-family: cursive;
+	border-bottom: 1px solid green;
+	background-color: black;
+	color: orange;
+	font-size:100px;
+	font-height:100px;
+	text-align: center;
+	background: url(back2.jpg);
+
+}
+
+ main {
+ 		border: 1px solid;
+ 		max-width: 1200px;	
+ 		margin-left: auto;
+ 		margin-right: auto;
+ 		padding-right: 50px;
+ 		padding-left: 50px;
+ 		padding-bottom: 90px;
+ 		background-image: url(background.jpg);
+ 	
+ }
+
+ #important {
+ 	background: silver;
+ }
+
+.with-logo {
+	background-image: url(asd.png);
+	background-repeat: no-repeat;
+	background-position: 20px 30px;
+	border:1px dotted gray;
+}
+
+.piska{
+	background-image: url(p.jpg);
+	background-position: 100% 0%;
+	background-size: 50px;
+	background-repeat: no-repeat;
+
+}
